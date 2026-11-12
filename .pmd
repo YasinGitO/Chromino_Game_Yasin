@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd>
+    <useProjectRuleSet>true</useProjectRuleSet>
+    <ruleSetFile>C:\Java\eclipse-AI-2025\ai-2025-test\ai-ruleset.xml</ruleSetFile>
+    <includeDerivedFiles>false</includeDerivedFiles>
+    <violationsAsErrors>true</violationsAsErrors>
+    <fullBuildEnabled>true</fullBuildEnabled>
+</pmd>
